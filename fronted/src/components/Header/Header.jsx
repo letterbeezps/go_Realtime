@@ -3,7 +3,7 @@ import "./Header.scss";
 
 const Header = () => (
   <div className="header">
-    <h2>实时聊天</h2>
+    <h2>频道</h2>
   </div>
 );
 
